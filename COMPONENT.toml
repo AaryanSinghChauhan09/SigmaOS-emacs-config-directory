@@ -3,7 +3,7 @@ name = "SigmaOS-emacs-config-directory"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "emacs-config-directory component"
+description = "SigmaOS component SigmaOS-emacs-config-directory"
 upstream = []
 
 [contract]
